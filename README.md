@@ -1,2 +1,2 @@
-# My-Data-Analysis-Projects
-Welcome to my Data Analysis Projects Repository! This repository houses a collection of data analysis projects that I have personally developed to showcase my skills and proficiency in data analysis, visualization, and interpretation. As a passionate data enthusiast, I have undertaken these projects to explore diverse datasets, draw valuable insights, and present meaningful findings to a broader audience.
+# My-Projects
+Welcome to my GitHub repository! Here, you'll find a collection of diverse data analysis projects showcasing my skills in data manipulation, visualization, and interpretation. These projects demonstrate my passion for extracting insights from data. Additionally, you'll find an exciting e-commerce website project that demonstartes my web development skills . Explore and enjoy!
